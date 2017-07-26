@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="no_cake">There is no cake until now</string>
+    <string name="add_new_iten">Add new item</string>
+    <string name="price">Enter Price</string>
+    <string name="quantity">Enter Quantity</string>
+    <string name="product_name">Enter product Name</string>
+    <string name="choose_size">Choose cake size</string>
+    <string name="sell_product_failed">There is no more</string>
+    <string name="order_more">\n Send Email to order more</string>
+    <string name="subject">Order more for  </string>
+    <string name="message">I\'d like to order  </string>
+    <string name="address">Please enter your address </string>
+    <string name="thanks">Thanks</string>
+    <string name="cancel">cancel</string>
+    <string name="permission_denied">You don\'t have permission to access the file</string>
+    <string name="product_info_empty">Please fill out all the required information</string>
+    <string name="external_storage">External storage</string>
+    <string name="permission_title">Permission necessary</string>
+    <string name="permission_message">permission is necessary</string>
+    <string name="add_success">Added success finally !</string>
+    <string name="small_size">Small</string>
+    <string name="medium_size">Medium</string>
+    <string name="larg_size">Large</string>
+    <string name="edite">Edit exist item</string>
+    <string name="action_delete_all_entries">Delete all items</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="editor_delete_product_failed">Failed to delete item </string>
+    <string name="editor_delete_product_successful">Success to delete item</string>
+    <string name="editor_insert_product_failed">Failed to insert item</string>
+    <string name="editor_insert_product_success">Success to insert item</string>
+    <string name="editor_update_product_failed">Failed to update item</string>
+    <string name="editor_update_product_success">Success to update item</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="send_email">Do you want to send email to order more ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="donot_insert">You do not want to insert a new item ?</string>
+
+</resources>
